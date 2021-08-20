@@ -1,0 +1,31 @@
+{
+	"item.barbersmod.barbro_crystals": "Barbro Crystals",
+	"item.barbersmod.blyte_crystals": "Blyte Crystals",
+	"item.barbersmod.elysium_crystals": "Elysium Crystals",
+	"item.barbersmod.hannasse_crystals": "Hannasse Crystals",
+	"item.barbersmod.jessene_crystals": "Jessene Crystals",
+	"item.barbersmod.jock_crystals": "Jock Crystals",
+	"item.barbersmod.kezite_crystals": "Kezite Crystals",
+	"item.barbersmod.knightstone_crystals": "Knightstone Crystals",
+	"item.barbersmod.leonium_crystals": "Leonium Crystals",
+	"item.barbersmod.sebatine_crystals": "Sebatine Crystals",
+	
+	"item.barbersmod.summoning_totem": "Summoning Totem",
+	"tooltip.barbersmod.summoning_totem.shift": "\u00A77Using this item spawns a boss",
+	"tooltip.barbersmod.hold_shift": "\u00A77Hold \u00A7eSHIFT \u00A77for more information",
+	
+	"block.barbersmod.barbro_ore": "Barbro Ore",
+	"block.barbersmod.blyte_ore": "Blyte Ore",
+	"block.barbersmod.elysium_ore": "Elysium Ore",
+	"block.barbersmod.hannasse_ore": "Hannasse Ore",
+	"block.barbersmod.jessene_ore": "Jessene Ore",
+	"block.barbersmod.jock_ore": "Jock Ore",
+	"block.barbersmod.kezite_ore": "Kezite Ore",
+	"block.barbersmod.knightstone_ore": "Knightstone Ore",
+	"block.barbersmod.leonium_ore": "Leonium Ore",
+	"block.barbersmod.sebatine_ore": "Sebatine Ore",
+	
+	"itemGroup.barbersmodtab": "Barber's Mod",
+	
+	"item.barbersmod.imbued_berry": "Imbued Berry"
+}

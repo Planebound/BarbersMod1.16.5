@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="barbersmod"
+version="1.0"
+displayName="Barber's Mod"
+displayURL="http://example.com/" #later
+logoFile="examplemod.png" #inMETAINFfolder
+credits="Thanks to my friends :)"
+authors="Bennett Barber"
+description='''
+This is a core mod to increase the difficulty of modpacks.
+'''
