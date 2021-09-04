@@ -3,10 +3,6 @@
   "pools": [
     {
       "rolls": 1,
-      "bonus_rolls": {
-        "min": 0,
-        "max": 3
-      },
       "entries": [
         {
           "type": "minecraft:alternatives",
@@ -41,6 +37,12 @@
                 },
                 {
                   "function": "minecraft:explosion_decay"
+                }
+              ],
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.75
                 }
               ]
             }
