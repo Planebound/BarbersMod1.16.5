@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "barbersmod:jock_ore"
+    },
+    "result": "barbersmod:jock_crystals",
+    "experience": 0.1,
+    "cookingtime": 100
+}

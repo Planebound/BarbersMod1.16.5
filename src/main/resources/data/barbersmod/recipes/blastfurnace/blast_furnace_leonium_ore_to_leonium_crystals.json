@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "barbersmod:leonium_ore"
+    },
+    "result": "barbersmod:leonium_crystals",
+    "experience": 0.1,
+    "cookingtime": 100
+}

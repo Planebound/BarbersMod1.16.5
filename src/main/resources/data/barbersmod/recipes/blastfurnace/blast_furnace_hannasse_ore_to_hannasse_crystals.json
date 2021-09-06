@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "barbersmod:hannasse_ore"
+    },
+    "result": "barbersmod:hannasse_crystals",
+    "experience": 0.1,
+    "cookingtime": 100
+}

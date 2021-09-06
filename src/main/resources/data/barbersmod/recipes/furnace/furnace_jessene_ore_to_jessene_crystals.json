@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "barbersmod:jessene_ore"
+    },
+    "result": "barbersmod:jessene_crystals",
+    "experience": 0.1,
+    "cookingtime": 200
+}

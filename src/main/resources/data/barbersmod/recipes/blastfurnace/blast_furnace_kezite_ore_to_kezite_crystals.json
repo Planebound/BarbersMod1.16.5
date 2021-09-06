@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "barbersmod:kezite_ore"
+    },
+    "result": "barbersmod:kezite_crystals",
+    "experience": 0.1,
+    "cookingtime": 100
+}

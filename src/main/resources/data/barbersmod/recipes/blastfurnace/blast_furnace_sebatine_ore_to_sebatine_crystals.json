@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "barbersmod:sebatine_ore"
+    },
+    "result": "barbersmod:sebatine_crystals",
+    "experience": 0.1,
+    "cookingtime": 100
+}
