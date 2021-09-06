@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx",
+        "xx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "barbersmod:sebatine_crystals"
+        }
+    },
+    "result":
+    {
+        "item": "barbersmod:refined_sebatine",
+        "count": 1
+    }
+}

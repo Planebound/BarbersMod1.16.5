@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx",
+        "xx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "barbersmod:barbro_crystals"
+        }
+    },
+    "result":
+    {
+        "item": "barbersmod:refined_barbro",
+        "count": 1
+    }
+}

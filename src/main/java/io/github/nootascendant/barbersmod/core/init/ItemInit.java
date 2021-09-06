@@ -36,6 +36,26 @@ public class ItemInit {
 			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));	
 	public static final RegistryObject<Item> SEBATINE_CRYSTALS = ITEMS.register("sebatine_crystals", 
 			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
+	public static final RegistryObject<Item> REFINED_BARBRO = ITEMS.register("refined_barbro", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
+	public static final RegistryObject<Item> REFINED_BLYTE = ITEMS.register("refined_blyte", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
+	public static final RegistryObject<Item> REFINED_ELYSIUM = ITEMS.register("refined_elysium", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
+	public static final RegistryObject<Item> REFINED_HANNASSE = ITEMS.register("refined_hannasse", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
+	public static final RegistryObject<Item> REFINED_JESSENE = ITEMS.register("refined_jessene", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
+	public static final RegistryObject<Item> REFINED_JOCK = ITEMS.register("refined_jock", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
+	public static final RegistryObject<Item> REFINED_KEZITE = ITEMS.register("refined_kezite", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));	
+	public static final RegistryObject<Item> REFINED_KNIGHTSTONE = ITEMS.register("refined_knightstone", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));	
+	public static final RegistryObject<Item> REFINED_LEONIUM = ITEMS.register("refined_leonium", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));	
+	public static final RegistryObject<Item> REFINED_SEBATINE = ITEMS.register("refined_sebatine", 
+			() -> new Item(new Item.Properties().tab(BarbersMod.BARBERS_MOD_GROUP)));
 	
 	//crystal ore block items
 	public static final RegistryObject<BlockItem> BARBRO_ORE = ITEMS.register("barbro_ore", 

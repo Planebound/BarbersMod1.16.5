@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx",
+        "xx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "barbersmod:blyte_crystals"
+        }
+    },
+    "result":
+    {
+        "item": "barbersmod:refined_blyte",
+        "count": 1
+    }
+}

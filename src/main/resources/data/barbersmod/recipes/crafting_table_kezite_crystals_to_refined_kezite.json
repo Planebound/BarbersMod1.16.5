@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "xx",
+        "xx"
+    ],
+    "key":
+    {
+        "x":
+        {
+            "item": "barbersmod:kezite_crystals"
+        }
+    },
+    "result":
+    {
+        "item": "barbersmod:refined_kezite",
+        "count": 1
+    }
+}
